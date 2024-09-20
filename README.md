@@ -1,7 +1,7 @@
-# 👋 Hello, I'm **MrKirichik**!
+# 👋 Hello, I'm **MrKirilchik**!
 
-[![GitHub Followers](https://img.shields.io/github/followers/MrKirichik?style=social)](https://github.com/MrKirichik)
-[![GitHub Stars](https://img.shields.io/github/stars/MrKirichik?style=social)](https://github.com/MrKirichik)
+[![GitHub Followers](https://img.shields.io/github/followers/MrKirilchik?style=social)](https://github.com/MrKirilchik)
+[![GitHub Stars](https://img.shields.io/github/stars/MrKirilchik?style=social)](https://github.com/MrKirilchik)
 
 ## 🚀 About Me
 
@@ -18,4 +18,4 @@
 
 ## 📊 GitHub Stats
 
-[![MrKirichik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrKirichik&show_icons=true&theme=radical)](https://github.com/MrKirichik)
+[![MrKirichik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrKirichik&show_icons=true&theme=radical)](https://github.com/MrKirilchik)
