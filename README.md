@@ -1,22 +1,21 @@
-# Hi there, I'm MrKirichik 👋
+# 👋 Hello, I'm **MrKirichik**!
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrKirichik&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/MrKirichik?label=Followers&style=social)](https://github.com/MrKirichik)
+[![GitHub Followers](https://img.shields.io/github/followers/MrKirichik?style=social)](https://github.com/MrKirichik)
+[![GitHub Stars](https://img.shields.io/github/stars/MrKirichik?style=social)](https://github.com/MrKirichik)
 
-## About Me
+## 🚀 About Me
 
-- 🔭 Programming experience: **6 years**
-- 💻 Languages: **Python**, **C++**
-- 🌱 Studying: **Neural Networks** and **Information Processing**
-- 🌍 Living in Russia for **17 years**
+- 🔭 Programming for **6 years**
+- 💻 Languages: **Python** & **C++**
+- 🤖 Studying **Neural Networks** and **Information Processing**
+- 🌍 Based in **Russia**
+- 🎓 **17 years old**
 
-## Skills and Tools
+## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Information Processing](https://img.shields.io/badge/Information%20Processing-0081CB?style=for-the-badge&logo=databricks&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Contact Me
+## 📊 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-MrKirichik-181717?style=for-the-badge&logo=github)](https://github.com/MrKirichik)
+[![MrKirichik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrKirichik&show_icons=true&theme=radical)](https://github.com/MrKirichik)
