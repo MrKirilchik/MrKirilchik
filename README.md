@@ -18,4 +18,4 @@
 
 ## 📊 GitHub Stats
 
-[![MrKirichik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrKirichik&show_icons=true&theme=radical)](https://github.com/MrKirilchik)
+[![MrKirichik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrKirilchik&show_icons=true&theme=radical)](https://github.com/MrKirilchik)
