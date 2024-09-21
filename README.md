@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Programming for **6 years**
 - 💻 Languages: **Python** & **C++**
 - 🤖 Studying **Neural Networks** and **Information Processing**
 - 🌍 Based in **Russia**
