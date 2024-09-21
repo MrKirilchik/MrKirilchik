@@ -9,7 +9,7 @@
 - 🤖 Studying **Neural Networks** and **Information Processing**
 - 🌍 Based in **Russia**
 - 🎓 **17 years old**
-- 🌐 [My Site](https://mrkirilchik.ru/)
+- 🌐 [My Site](https://www.mrkirilchik.ru/)
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
